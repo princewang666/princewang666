@@ -2,8 +2,9 @@
 - 🌱 目前要研究生毕业了，即将进入工作岗位。
 - 🔭 希望通过GitHub多学习一些开源代码，提升自己的能力
 - 📫 我的邮箱：1213246620@qq.com
+- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=princewang666&layout=compact)](https://github.com/princewang666/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=princewang666&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/princewang666/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=princewang666&show_icons=true&theme=tokyonight)](https://github.com/princewang666/github-readme-stats)
 
 
 <!--
