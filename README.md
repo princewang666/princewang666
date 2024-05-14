@@ -1,9 +1,9 @@
-### 个人简介 👋
+## 个人简介 👋
 - 🌱 目前要研究生毕业了，即将进入工作岗位。
 - 🔭 希望通过GitHub多学习一些开源代码，提升自己的能力
 - 📫 我的邮箱：1213246620@qq.com
-- 
-## My Skill Set  
+
+## 技术栈  
 <table><tr><td valign="top" width="33%">
   
 ### Frontend  
@@ -38,13 +38,14 @@
 
 <br/>  
 
-## Connect with me  
+## 联系我  
 <div align="center">
 <a href="https://github.com/princewang666" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
 </div>  
 
+## GitHub信息
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=princewang666&layout=compact)](https://github.com/princewang666/github-readme-stats)
 [![Prince Wang's GitHub stats](https://github-readme-stats.vercel.app/api?username=princewang666&show_icons=true&theme=tokyonight)](https://github.com/princewang666/github-readme-stats)
 
