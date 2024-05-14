@@ -1,4 +1,7 @@
-### Hi there 👋
+### 个人简介 👋
+- 🌱 目前要研究生毕业了，即将进入工作岗位。
+- 🔭 希望通过GitHub多学习一些开源代码，提升自己的能力
+- 📫 我的邮箱：1213246620@qq.com
 
 <!--
 **princewang666/princewang666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
